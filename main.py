@@ -1,4 +1,4 @@
-#streamlit UI 
+#streamlit UI in browser
 
 import streamlit as st
 from PIL import Image
