@@ -10,6 +10,7 @@ os.makedirs(save_folder,exist_ok=True)
 output_folder = "output"
 os.makedirs(output_folder, exist_ok=True)
 
+# colors for annot
 class_colors = {
     0: (0, 0, 255),   # Red for 'Whitener'
     1: (0, 255, 0),   # Green for 'Overwriting'
